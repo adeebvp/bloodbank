@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940588216882",
+    "project_id": "bloodbank-8c914",
+    "storage_bucket": "bloodbank-8c914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940588216882:android:7fc3387fcc97d826de422b",
+        "android_client_info": {
+          "package_name": "com.example.tharavad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940588216882-099fllot70iks2vh3snimbfslmuv1rtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTrwDGC-GKjduyCNYKu45MSQlGLpyR-Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940588216882-099fllot70iks2vh3snimbfslmuv1rtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
